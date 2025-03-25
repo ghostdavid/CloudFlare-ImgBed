@@ -1,3 +1,6 @@
+# *如果要使用，去fork原项目修改，不要fork我的*
+
+
 <div align="center">
     <a href="https://github.com/MarSeventh/CloudFlare-ImgBed"><img width="200px" alt="logo" src="https://imgbed.sanyue.site/file/github/1741863225688_logo.e8dbfa27.png"/></a>
     <p><em>🗂️开源文件托管解决方案，基于 Cloudflare Pages，支持 Telegram Bot 、 Cloudflare R2 ，S3 API 等多种不同存储渠道。</em></p>
